@@ -1,0 +1,23 @@
+Topics Covered Today:
+1) How an end-user request reaches the application
+2) Application hosting: On-premises vs Cloud Infrastructure
+3) Real-time incident example: Cyber attack case study
+4) Different layers involved in network communication (End User → Web Server)
+5) HTTP/HTTPS response status codes:
+     1XX – Informational
+     2XX – Success
+     3XX – Redirection
+     4XX – Client Errors
+     5XX – Server Errors
+
+6) Protecting applications from attacks at different layers
+     DDoS(Distributed Denial of service) - Remediation.
+     DoS(Denial of Service) - Remediation.
+     Brute-force attacks - Remediation
+
+7) EDR solutions (CrowdStrike, SentinelOne) vs Anti-Virus solutions (McAfee, Defender)
+8) TCP (Web Requests) vs UDP (DNS)
+9) TCP Handshake vs TLS Handshake
+
+Communication Exercise:
+10) Story Narration Round – 45 minutes
